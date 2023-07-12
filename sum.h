@@ -1,3 +1,3 @@
 #pragma once
 
-init sum(int n);
+int sum(int n);
